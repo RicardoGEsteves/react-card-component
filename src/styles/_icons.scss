@@ -1,0 +1,31 @@
+.icons__wrapper {
+    display: flex;
+    flex-direction: row;
+    .icon__list__group {
+        margin-right: 3.125em;
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        .btn {
+            margin-right: 0.625em;
+            i {
+            }
+        }
+        .comments,
+        .number__comments {
+            color: #696969;
+        }
+        .share,
+        .number__shares {
+            color: #00e64d;
+        }
+        .likes,
+        .number__likes {
+            color: #ff0080;
+        }
+        .contact {
+            color: #696969;
+        }
+    }
+}

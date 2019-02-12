@@ -1,0 +1,16 @@
+.logo__wrapper {
+    padding: 0 0.625em 0 0;
+    .logo__container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        padding: 0.625em;
+        background-color: #000;
+        border-radius: 50%;
+        .logo__text {
+            font-size: 1.875em;
+            font-weight: 700;
+            color: #fff;
+        }
+    }
+}
