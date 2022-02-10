@@ -27,7 +27,7 @@
         "babel-loader": "^8.0.4",
         "css-loader": "^2.0.0",
         "react-hot-loader": "^4.3.12",
-        "node-sass": "^4.11.0",
+        "node-sass": "^7.0.0",
         "webpack": "^4.26.1",
         "webpack-cli": "^3.1.2",
         "webpack-dev-server": "^3.1.11",
